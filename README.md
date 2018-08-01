@@ -1,7 +1,7 @@
 # Predicting Boston Housing Prices
 This is my implementation of the Predicting Boston Housing Prices Project<br/>
 From Udacity Machine Learning & AI Foundations Nanodegree<br/>
-Machine Learning Project
+**Machine Learning Project**
 
 ![jpg](imgs/img1.jpg)
 
